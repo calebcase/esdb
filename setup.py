@@ -20,7 +20,7 @@ setup(
     author_email='calebcase@gmail.com',
     url='https://github.com/calebcase/esdb',
     packages=find_packages(),
-    requires=[
+    install_requires=[
         'rawes'
     ],
 )
